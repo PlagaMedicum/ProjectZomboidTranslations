@@ -189,9 +189,9 @@ GameSound_BE = {
 
 /* Object */
     GameSound_BirdInTree = "Птушка на дрэве",
-    GameSound_BreakObject = "Break Object",
-    GameSound_HitBarricadeMetal = "Hit Metal Barricade",
-    GameSound_HitBarricadePlank = "Hit Wooden Barricade",
+    GameSound_BreakObject = "Паломка аб'екта",
+    GameSound_HitBarricadeMetal = "Удар па металічнай барыкадзе",
+    GameSound_HitBarricadePlank = "Удар па драўлянай барыкадзе",
     GameSound_BeginRemoveBarricadeMetal = "Begin Remove Metal Barricade",
     GameSound_BeginRemoveBarricadePlank = "Begin Remove Wooden Barricade",
     GameSound_RemoveBarricadeMetal = "Remove Metal Barricade",
