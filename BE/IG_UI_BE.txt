@@ -17,8 +17,8 @@ IGUI_BE = {
     IGUI_invpanel_FreezingTime = "Замярзае",
     IGUI_invpanel_Inspect = "Аглядзець",
 	IGUI_invpanel_weight = "Вага",
-	IGUI_invpanel_ascending = "Ascending",
-	IGUI_invpanel_descending = "Descending",
+	IGUI_invpanel_ascending = "Па ўзрастанні",
+	IGUI_invpanel_descending = "Па ўбыванні",
 	-- InventoryPage
     IGUI_invpage_Loot_all = "Забраць усё",
 	-- Character Screen
@@ -34,7 +34,7 @@ IGUI_BE = {
     IGUI_char_Weight = "Вага",
     IGUI_ContainerTitle_barbecue = "Barbecue",
     IGUI_ContainerTitle_bin = "Garbage",
-    IGUI_ContainerTitle_campfire = "Campfire",
+    IGUI_ContainerTitle_campfire = "Вогнішча",
     IGUI_ContainerTitle_cashregister = "Cash Register",
     IGUI_ContainerTitle_clothingdryer = "Clothing Dryer",
     IGUI_ContainerTitle_clothingrack = "Clothing Rack",
@@ -284,7 +284,7 @@ IGUI_BE = {
     IGUI_Controller_Loot = "Забраць",
     IGUI_Controller_RotateLeft = "Павярнуць улева",
     IGUI_Controller_RotateRight = "Павярнуць управа",
-    IGUI_Controller_CruiseControl = "Круізны кантроль",
+    IGUI_Controller_CruiseControl = "Круіз-кантроль",
     IGUI_Controller_Disconnected1 = "КАНТРОЛЕР БЫЎ АДКЛЮЧАНЫ",
     IGUI_Controller_Disconnected2 = "Выкарыстоўвайце клавіятуру і мыш",
     -- Sleep dialog
@@ -434,7 +434,7 @@ IGUI_BE = {
     IGUI_CraftUI_Name_Filter = "Фільтр назвы:",
 
 -- Tutorial Stuff
-    IGUI_Tutorial1_Welcome1 = " <CENTRE> <SIZE:large> Вітаем у Project Zomboid! <LINE> <LINE> <SIZE:medium> Хутка вы жудасна памрэце. Ніхто не будзе па вам гараваць і вы хутка станеце забытымі. Усё будзе пройдзена ўпустую! <LINE> <LINE> Так што давайце пераканаемся, што вы адпраўляецеся ў бітву!",
+    IGUI_Tutorial1_Welcome1 = " <CENTRE> <SIZE:large> Вітаем у Project Zomboid! <LINE> <LINE> <SIZE:medium> Хутка вы жудасна памрэце. Ніхто не будзе па вас гараваць і вы хутка станеце забытымі. Усё будзе пройдзена ўпустую! <LINE> <LINE> Так што давайце пераканаемся, што вы адпраўляецеся ў бітву!",
    IGUI_Tutorial1_Welcome2 = " <CENTRE> <SIZE:medium> First things first: you can zoom with your mouse wheel or the %1/%2 keys. <LINE> <LINE> Let's get a bird's eye view of the lonely place where you're about to die - miserable and alone! <LINE> <LINE> <SIZE:large> Zoom out!",
    IGUI_Tutorial1_Welcome3 = " <CENTRE> <SIZE:medium> You're great at this! <LINE> <LINE> Let's have a look at your character information. <LINE> <LINE> <SIZE:large> Click the flashing Heart over on the left!",
     IGUI_Tutorial1_Welcome4 = " <CENTRE> <SIZE:medium> Here you see your Health status. <LINE> <LINE> Scratches, bites, bleeding, broken limbs: all listed for your convenience! <LINE> <LINE> It's also here that you can bandage and treat wounds.",
@@ -573,7 +573,7 @@ IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> First things first: you can zoom
     IGUI_PlayerText_VehicleSeatRemoved = "Садзенне адсутнічае.",
     IGUI_PlayerText_DoorBarricaded = "Дзверы забарыкадаваны.",
     IGUI_PlayerText_DoorBlocked = "Дзверы заблакаваны.",
-    IGUI_PlayerText_ItemNameTooLong = "Назва не можа быць даўжэй за %1 сімвалаў.",
+    IGUI_PlayerText_ItemNameTooLong = "Назва не можа быць даўжэйшай за %1 сімвалаў.",
 
     IGUI_GamePaused = "- Гульня прыпынена -",
     IGUI_UnknownBerry = "Невядомая ягада",
@@ -1152,7 +1152,7 @@ IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> First things first: you can zoom
     IGUI_VehicleNameTaxiBurnt = "Таксі",
     IGUI_VehicleNameBurntCar = "%1 (спален.)",
     --
-    IGUI_Mechanics_PartDoesntExist = "Частка не існуе",
+    IGUI_Mechanics_PartDoesntExist = "Часткі не існуе",
     IGUI_Mechanics_MissingItem = "Патрэбны прадмет: %1",
     IGUI_Vehicle_CondInfoBattery = "Recharges while the engine is running. Drained by starting the engine, by active lights, siren and radio.",
     IGUI_Vehicle_CondInfoGasTank = "Stores fuel. <LINE> Low condition gas tanks have less container capacity and may leak fuel.",
@@ -1492,7 +1492,7 @@ IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> First things first: you can zoom
     IGUI_AdminPanel_CanHearAll = "Can Hear Everyone (VOIP)",
     IGUI_media_dragVHS = "Drag a VHS tape in here, or right click to remove it.",
     IGUI_media_dragCD = "Drag a CD in here, or right click to remove it.",
-    IGUI_media_nocd = "- НЯМА ДЫСКУ -",
+    IGUI_media_nocd = "- НЯМА ДЫСКА -",
     IGUI_media_notape = "- НЯМА СТУЖКІ -",
     IGUI_media_play = "Play",
     IGUI_media_stop = "Спыніць",
