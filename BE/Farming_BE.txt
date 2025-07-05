@@ -21,7 +21,7 @@ Farming_BE = {
     Farming_Ready_to_harvest = "Гатова да збору",
     -- farming info text
     -- title
-    Farming_Plant_Information = "Звесткі аб расліне",
+    Farming_Plant_Information = "Звесткі пра расліну",
     Farming_Current_growing_phase = "Бягучая фаза росту",
     Farming_Next_growing_phase = "Наступная фаза росту",
     Farming_Last_time_watered = "Час апошняга паліву",

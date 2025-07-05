@@ -117,8 +117,8 @@ Moodles_BE = {
 	Moodles_endurance_desc_lvl3 = "Вы ледзьве можаце хадзіць.",
 	Moodles_endurance_desc_lvl4 = "Вы ледзьве можаце перамяшчацца.",
 	-- Angry
-	Moodles_angry_desc_lvl1 = "Крыху раздражнёны(-ая).",
-	Moodles_angry_desc_lvl2 = "Вы сур'ёзна не ў настроі.",
+	Moodles_angry_desc_lvl1 = "Лёгкая раздражнёнасць.",
+	Moodles_angry_desc_lvl2 = "Вы зусім не ў гуморы.",
 	Moodles_angry_desc_lvl3 = "Вы напоўненыя злобай.",
 	Moodles_angry_desc_lvl4 = "Вас ірве да бойкі.",
 	-- Stress
@@ -130,7 +130,7 @@ Moodles_BE = {
 	Moodles_thirst_desc_lvl1 = "Сухі рот.",
 	Moodles_thirst_desc_lvl2 = "Абязводжанне.",
 	Moodles_thirst_desc_lvl3 = "Галава круціцца.",
-	Moodles_thirst_desc_lvl4 = "Вы моліцеся аб вадзе.",
+	Moodles_thirst_desc_lvl4 = "Вы моліце аб вадзе.",
 	-- Tired
 	Moodles_tired_desc_lvl1 = "Вы маглі бы прылегчы.",
 	Moodles_tired_desc_lvl2 = "Усведамленне зніжана.",
@@ -139,17 +139,17 @@ Moodles_BE = {
 	-- Hungry
 	Moodles_hungry_desc_lvl1 = "Вам бы перакусіць.",
 	Moodles_hungry_desc_lvl2 = "Вы б зараз з'елі і каня.",
-	Moodles_hungry_desc_lvl3 = "Паменшаны моц і ачуньванне.",
+	Moodles_hungry_desc_lvl3 = "Паменшыліся моц і ачуньванне.",
 	Moodles_hungry_desc_lvl4 = "Вы губляеце здароўе...",
 	-- Panic
 	Moodles_panic_desc_lvl1 = "Пастарайцеся захаваць спакой.",
-	Moodles_panic_desc_lvl2 = "Трапнасць зменшана.",
-	Moodles_panic_desc_lvl3 = "Трапнасць моцна зменшана.",
-	Moodles_panic_desc_lvl4 = "Трапнасць і бачанне моцна зменшаны.",
+	Moodles_panic_desc_lvl2 = "Трапнасць зменшылася.",
+	Moodles_panic_desc_lvl3 = "Трапнасць моцна зменшылася.",
+	Moodles_panic_desc_lvl4 = "Трапнасць і бачанне моцна зменшыліся.",
 	-- Sickness
 	Moodles_sick_desc_lvl1 = "Лягчэй, не перанапружвайцеся.",
-	Moodles_sick_desc_lvl2 = "Сіла і лячэнне зніжаны.",
-	Moodles_sick_desc_lvl3 = "Сіла і лячэнне моцна зніжаны.",
+	Moodles_sick_desc_lvl2 = "Сіла і лячэнне панізіліся.",
+	Moodles_sick_desc_lvl3 = "Сіла і лячэнне моцна панізіліся.",
 	Moodles_sick_desc_lvl4 = "Павышэнне пагрозы смерці.",
 	-- Bored
 	Moodles_bored_desc_lvl1 = "Займіце сябе або знайдзіце забаву.",
@@ -160,53 +160,53 @@ Moodles_BE = {
 	Moodles_unhappy_desc_lvl1 = "Знайдзіце спосаб павысіць свой настрой.",
 	Moodles_unhappy_desc_lvl2 = "Знайдзіце нейкае ўзрушэнне або чалавечы кантакт.",
 	Moodles_unhappy_desc_lvl3 = "Вы спустошаны жалобай і адчаем.",
-	Moodles_unhappy_desc_lvl4 = "Знайдзіце спосаб забыцца аб рэчаіснасці.",
+	Moodles_unhappy_desc_lvl4 = "Знайдзіце спосаб забыцца на рэчаіснасць.",
 	-- Bleeding
 	Moodles_bleed_desc_lvl1 = "Трэба перавязацца.",
-	Moodles_bleed_desc_lvl2 = "Сіла і хуткасць зніжаны.",
-	Moodles_bleed_desc_lvl3 = "Сіла і хуткасць моцна зніжаны.",
+	Moodles_bleed_desc_lvl2 = "Сіла і хуткасць панізіліся.",
+	Moodles_bleed_desc_lvl3 = "Сіла і хуткасць моцна панізіліся.",
 	Moodles_bleed_desc_lvl4 = "Надыходзіць смерць.",
 	-- Wet
 	Moodles_wet_desc_lvl1 = "Крыху сыра. Дождж або пот?",
-	Moodles_wet_desc_lvl2 = "Па вам цячэ пот або дождж.",
+	Moodles_wet_desc_lvl2 = "Па вас цячэ пот або дождж.",
     Moodles_wet_desc_lvl3 = "Шанц падхапіць прастуду.",
     Moodles_wet_desc_lvl4 = "Высокі шанц падхапіць прастуду.",
 	-- Has a cold
 	Moodles_hasacold_desc_lvl1 = "Нерэгулярнае чханне.",
 	Moodles_hasacold_desc_lvl2 = "Схільнасць да чхання.",
-	Moodles_hasacold_desc_lvl3 = "Чханне і кашаль. Хуткасць і лячэнне зніжаны.",
-	Moodles_hasacold_desc_lvl4 = "Хуткасць і лячэнне цяпер моцна зніжаны.",
+	Moodles_hasacold_desc_lvl3 = "Чханне і кашаль. Хуткасць і лячэнне панізіліся.",
+	Moodles_hasacold_desc_lvl4 = "Хуткасць і лячэнне цяпер моцна панізіліся.",
 	-- Injured
 	Moodles_injured_desc_lvl1 = "Вам не па сабе...",
-	Moodles_injured_desc_lvl2 = "Сіла і хуткасць зніжаны.",
-	Moodles_injured_desc_lvl3 = "Сіла і хуткасць моцна зніжаны.",
+	Moodles_injured_desc_lvl2 = "Сіла і хуткасць панізіліся.",
+	Moodles_injured_desc_lvl3 = "Сіла і хуткасць моцна панізіліся.",
 	Moodles_injured_desc_lvl4 = "Без болю, ціха не зойду я ў краіну забыцця...", -- перафразоўка аднаго айчыннага класіка :)
 	-- Pain
 	Moodles_pain_desc_lvl1 = "Вы адчуваеце лёгкі боль.",
-	Moodles_pain_desc_lvl2 = "Хуткасць і трапнасць злёгку зніжаны.",
-	Moodles_pain_desc_lvl3 = "Хуткасць і трапнасць зніжаны.",
-	Moodles_pain_desc_lvl4 = "Хуткасць і трапнасць моцна зніжаны.",
+	Moodles_pain_desc_lvl2 = "Хуткасць і трапнасць злёгку панізіліся.",
+	Moodles_pain_desc_lvl3 = "Хуткасць і трапнасць панізіліся.",
+	Moodles_pain_desc_lvl4 = "Хуткасць і трапнасць моцна панізіліся.",
 	-- Heavy load
 	Moodles_heavyload_desc_lvl1 = "Вы несяце крыху зашмат.",
-	Moodles_heavyload_desc_lvl2 = "Хуткасць руху зменшана.",
-	Moodles_heavyload_desc_lvl3 = "Хуткасць руху моцна зменшана.",
+	Moodles_heavyload_desc_lvl2 = "Хуткасць руху зменшылася.",
+	Moodles_heavyload_desc_lvl3 = "Хуткасць руху моцна зменшылася.",
 	Moodles_heavyload_desc_lvl4 = "Вы нагружаны ў край! Рухі скаваныя.",
 	-- Drunk
 	Moodles_drunk_desc_lvl1 = "Вы крыху выпілі.",
-	Moodles_drunk_desc_lvl2 = "Каардынацыя злёгку парушана.",
-	Moodles_drunk_desc_lvl3 = "Каардынацыя парушана.",
-	Moodles_drunk_desc_lvl4 = "Ты-ы і я-я супр-ць све-ета-а. Я цябе кахаю. КАХАЮ ЦЯБЕ.'",
+	Moodles_drunk_desc_lvl2 = "Каардынацыя злёгку парушылася.",
+	Moodles_drunk_desc_lvl3 = "Каардынацыя парушылася.",
+	Moodles_drunk_desc_lvl4 = "Ты-ы і я-я супр-ць све-ету гэ-этга-а. Я цябе кахаю. КАХАЮ ЦЯБЕ.'",
 	-- Dead
-	Moodles_dead_desc_lvl1 = "Вялікі шанец стаць ежай для пацукоў.",
+	Moodles_dead_desc_lvl1 = "Вялікі шанц стаць ежай для пацукоў.",
 	-- Zombified
 	Moodles_zombified_desc_lvl1 = "Нечаканае жаданне есці людзей.",
 	-- Food eaten
 	Moodles_foodeaten_desc_lvl1 = "Грызенне голаду цалкам адсутнае.",
 	Moodles_foodeaten_desc_lvl2 = "Поўны жывот. Пажыўныя рэчывы праходзяць свой шлях па вашым арганізме.",
-	Moodles_foodeaten_desc_lvl3 = "Страўнік задаволены. Здароўе і сіла палепшаны.",
+	Moodles_foodeaten_desc_lvl3 = "Страўнік задаволены. Здароўе і сіла палепшалі.",
 	Moodles_foodeaten_desc_lvl4 = "Немагчыма з'есці нават аднаго маленькага кавалачка.",
 	-- Hyperthermia
-	Moodles_hyperthermia_desc_lvl1 = "Падумайце аб тым каб распрануцца. Смага падвышана.",
+	Moodles_hyperthermia_desc_lvl1 = "Падумайце пра тое каб распрануцца. Смага падвысілася.",
 	Moodles_hyperthermia_desc_lvl2 = "Смага. Пот. Вы пераграваецеся.",
 	Moodles_hyperthermia_desc_lvl3 = "Моташна, немагчыма сканцэнтравацца, вы знемагаеце без вадкасці.",
 	Moodles_hyperthermia_desc_lvl4 = "Вы трызніце ад цеплавога ўдару і гарачыні вакол. Вы ў сур'ёзнай небяспецы.",
@@ -216,10 +216,10 @@ Moodles_BE = {
 	Moodles_hypothermia_desc_lvl3 = "Божачка літасцівы! Як жа холадна."
 	Moodles_hypothermia_desc_lvl4 = "Холад завалодаў вашым целам і розумам.",
     -- Windchill
-    Moodles_windchill_desc_lvl1 = "Надворная тэмпература адчуваецца на 5 - 10 градусаў ніжэй за актуальную.",
-    Moodles_windchill_desc_lvl2 = "Надворная тэмпература адчуваецца на 10 - 15 градусаў ніжэй за актуальную.",
-    Moodles_windchill_desc_lvl3 = "Надворная тэмпература адчуваецца на 15 - 20 градусаў ніжэй за актуальную.",
-    Moodles_windchill_desc_lvl4 = "Надворная тэмпература адчуваецца больш, чым на 20 градусаў ніжэй за актуальную.",
+    Moodles_windchill_desc_lvl1 = "Наваколле адчуваецца халаднейшым на 5 - 10 градусаў.",
+    Moodles_windchill_desc_lvl2 = "Наваколле адчуваецца халаднейшым на 10 - 15 градусаў.",
+    Moodles_windchill_desc_lvl3 = "Наваколле адчуваецца халаднейшым на 15 - 20 градусаў.",
+    Moodles_windchill_desc_lvl4 = "Наваколле адчуваецца халаднейшым на 20+ градусаў.",
     -- CantSprint
     Moodles_CantSprint = "Абмежаваны рух"
     Moodles_CantSprint_desc = "Цяжкое адзенне, аб'ёмістыя сумкі або вялікія прадметы вас запавольваюць!"
