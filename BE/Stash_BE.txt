@@ -6,7 +6,7 @@ Stash_BE = {
     -- імёны і некаторыя назвы захоўваюцца ў арыгінальным напісанні і мінімальна адаптуюцца
     -- лацінка выкарыстоўваецца часова, да выпраўлення праблем з адлюстраваннем кірыліцы
 
-    Stash_LVMap1_Text1 = "liasnuty z harmataj pamianiem",
+    Stash_LVMap1_Text1 = "liasnuty z harmataj - pamianiem",
     Stash_LVMap1_Text2 = "dom liasnutaha z harmataj",
 
     Stash_LVMap2_Text1 = "padarunak ad maci x",
@@ -22,10 +22,10 @@ Stash_BE = {
     Stash_LVMap4_Text2 = "treba kuvalda",
     Stash_LVMap4_Text4 = "bienzazapraŭka",
 
-    Stash_LVMap5_Text1 = "Carliny zviezli Debbie siudy",
+    Stash_LVMap5_Text1 = "Carlin'y zviezli Debbie siudy",
     Stash_LVMap5_Text2 = "Idzi da ich, kali tabie treba dapamoha!",
     Stash_LVMap5_Text3 = "my bačyli ich",
-    Stash_LVMap5_Text4 = "pa ŭsioj spartzalie",
+    Stash_LVMap5_Text4 = "pa ŭsioj spartzali",
     Stash_LVMap5_Text5 = "nikudy nie chadzi nočču!",
 
     Stash_LVMap6_Text1 = "NIAMA MIESCA LIEPŠAHA, ČYM DOMA!",
@@ -60,7 +60,7 @@ Stash_BE = {
     Stash_LVMap12_Text5 = "achujennymi ŭŭŭŭchuuuuu!!!",
 
     Stash_LVMap13_Text1 = "dobryja biaspiečnyja chaty",
-    Stash_LVMap13_Text2 = "alie asciarožna pry zaćystcy zadnich dvaroŭ",
+    Stash_LVMap13_Text2 = "alie asciarožna pry začystcy zadnich dvaroŭ",
     Stash_LVMap13_Text3 = "tut pracujučaje aŭto",
 
     Stash_LVMap14_Text1 = "zabarykaduj doškami, jakija ja prynies tabie",
@@ -106,13 +106,13 @@ Stash_BE = {
     Stash_MulMap7_Text1 = "Plan B.",
     Stash_MulMap7_Text2 = "Krama - „USIO JAŠČE POŬNY“",
     Stash_MulMap7_Text3 = "prajob",
-    Stash_MulMap8_Text1 = "Biary maje rečy. Pachavaj mianie, kali heta mahčyma i biaspiečna. Blahaslavi ciabie boh.",
-    Stash_MulMap8_Text2 = "vypiej tut, kali tabie treba",
+    Stash_MulMap8_Text1 = "Biary maje rečy. Pachavaj mianie, kali heta mahčyma i biaspiečna. Barani ciabie boh.",
+    Stash_MulMap8_Text2 = "vypi tut, kali tabie treba",
     Stash_MulMap8_Text3 = "vialiki natoŭp, nie pieramiaščaŭsia dniami",
     Stash_MulMap10_Text1 = "dom smierci",
     Stash_MulMap10_Text2 = "„U Spifa“",
     Stash_MulMap10_Text3 = "zdavalasia, tut čysta",
-    Stash_MulMap11_Text1 = "Harmata va „U Spifa“.",
+    Stash_MulMap11_Text1 = "Stvol va „U Spifa“.",
     Stash_MulMap11_Text2 = "Tablietki tut.",
     Stash_MulMap11_Text3 = "prabliema",
     Stash_MulMap12_Text1 = "drabavik tut - ježa na kuchni?.",
@@ -131,7 +131,7 @@ Stash_MulMap15_Text2 = "tut paasciarožniej",
 Stash_MulMap15_Text21 = "voś tut jany capnuli J",
 
 Stash_MulMap16_Text1 = "u achoŭnikaŭ z banka josć stvaly",
-Stash_MulMap16_Text2 = "Sumuju pa TB i chalodnym pivie, jadry hety sviet",
+Stash_MulMap16_Text2 = "Sumuju pa TV i chalodnym pivie, jadry hety sviet",
 
 Stash_MulMap17_Text1 = "u „zippees“ šmat čaho roznaha",
 Stash_MulMap17_Text2 = "pravier taksama piakarniu za nastupnymi dzviaryma",
@@ -149,7 +149,7 @@ Stash_MulMap18_Text12 = "spadziajusia, što jaho harmaty ŭsio jašče na miescy
     Stash_WpMap4_Text1 = "Budź smielym. Kachaju ciabie.",
     Stash_WpMap4_Text3 = "NIE CHADZI SIUDY. Megan dzieści tut – jana adna z ich.",
     Stash_WpMap4_Text31 = "Navat nie viedaŭ, što jana ŭ horadzie. Prosta nie idzi tudy",
-    Stash_WpMap5_Text1 = "instrumienty, pakinutyja mnoj u prybiraĺni, daduć tabie pieravahu -",
+    Stash_WpMap5_Text1 = "instrumienty, pakinutyja mnoju ŭ prybiraĺni, daduć tabie pieravahu -",
     Stash_WpMap5_Text11 = "utrymlivaj ich znadvorku koĺki zmožaš JA CIABIE KACHAJU",
     Stash_WpMap5_Text2 = "pica",
     Stash_WpMap5_Text3 = "prabliema",
@@ -179,7 +179,7 @@ Stash_MulMap18_Text12 = "spadziajusia, što jaho harmaty ŭsio jašče na miescy
     Stash_WpMap13_Text3 = "zabita na aŭto: 11",
 
     Stash_WpMap14_Text1 = "Sustreniemsia tut, Tonya! U mianie dosyć ježy.",
-    Stash_WpMap14_Text11 = "Ciapier nam zastalosia čakać Colina z jaho lodkaj",
+    Stash_WpMap14_Text11 = "Ciapier nam zastalosia čakać Colin'a z jaho lodkaj",
 
     Stash_WpMap15_Text1 = "Jany nas nikoli tut nie znojduć, pavier",
     Stash_WpMap15_Text11 = "jany ž tupiej za sabačaje dziarmo",
@@ -193,26 +193,26 @@ Stash_MulMap18_Text12 = "spadziajusia, što jaho harmaty ŭsio jašče na miescy
     Stash_WpMap16_Text32 = "pieraadolieć zimu: 22%",
     Stash_WpMap16_Text4 = "Treba boĺš ježy i spraŭnaje aŭto",
 
-    Stash_MarchRidgeMap1_Text1 = "Tut harmata",
+    Stash_MarchRidgeMap1_Text1 = "Tut valyna",
     Stash_MarchRidgeMap1_Text2 = "tut siakiera i instrumienty?",
-    Stash_MarchRidgeMap1_Text3 = "nie sychodź",
+    Stash_MarchRidgeMap1_Text3 = "nie idzi tudy",
     Stash_MarchRidgeMap2_Text1 = "pistaliet dlia ciabie",
     Stash_MarchRidgeMap2_Text2 = "zdajecca ŭ hetaj kramie josć zapasy",
-    Stash_MarchRidgeMap2_Text3 = "jany mihrujuć? Zdajecca jany iduć siudy",
+    Stash_MarchRidgeMap2_Text3 = "jany mihrujuć? Zdajecca, jany iduć siudy",
     Stash_MarchRidgeMap3_Text1 = "tut paliaŭničy",
     Stash_MarchRidgeMap3_Text2 = "piakarnia",
     Stash_MarchRidgeMap3_Text3 = "apošni raz jana byla tut",
     Stash_MarchRidgeMap4_Text1 = "Kali ty dabiarešsia siudy da pieratvarennia, tut budzie toje, što tabie dapamoža.",
     Stash_MarchRidgeMap4_Text11 = "My vierniemsia razam. Niejak.",
     Stash_MarchRidgeMap4_Text2 = "Hramadski centr. Tut budzie majo ciela. Kachaju ciabie.",
-    Stash_MarchRidgeMap4_Text3 = "Wish to God you'd never been stationed here. Happy memories here though.",
+    Stash_MarchRidgeMap4_Text3 = "Prašu Boha, kab ty boĺš tut nie zastavaŭsia. Niahliedziačy na dobryja ŭspaminy.",
     Stash_MarchRidgeMap5_Text1 = "nie marnuj patrony - rečy tut možna vykarystać jak zbroju",
     Stash_MarchRidgeMap5_Text2 = "miedyčny centr",
     Stash_MarchRidgeMap5_Text3 = "cišej",
     Stash_MarchRidgeMap6_Text1 = "chlamam tut možna abstaliavać biaspieku budynka",
     Stash_MarchRidgeMap6_Text2 = "dadatkovaje abstaliavannie",
     Stash_MarchRidgeMap6_Text3 = "tut piakieĺnyja spustašenni",
-    Stash_MarchRidgeMap7_Text1 = "Dumaju, što jon havaŭsia tut.",
+    Stash_MarchRidgeMap7_Text1 = "Dumaju, što jon chavaŭsia tut.",
     Stash_MarchRidgeMap7_Text2 = "Treba budzie pryhatavać instrumienty",
     Stash_MarchRidgeMap7_Text3 = "Bačyŭ jaho tut. Niama ŭkusu alie byla lichamanka.",
 
@@ -220,10 +220,10 @@ Stash_MulMap18_Text12 = "spadziajusia, što jaho harmaty ŭsio jašče na miescy
     Stash_MarchRidgeMap8_Text2 = "Jany mnie boliej nie patrebnyja",
 
     Stash_MarchRidgeMap9_Text1 = "acalielyja mohuć dalučacca da nas",
-    Stash_MarchRidgeMap9_Text2 = "zaŭždy treba boĺš ježy i harmat i taho-siaho",
-    Stash_MarchRidgeMap9_Text3 = "dadatkovy respiekt, kali pazabjecie koĺki Z-aŭ na šliachu!",
+    Stash_MarchRidgeMap9_Text2 = "zaŭždy treba boĺš ježy i stvaloŭ - i taho-siaho",
+    Stash_MarchRidgeMap9_Text3 = "dadatkovy respiekt, kali pazabjecie koĺki Z-aŭ pa darozie!",
 
-    Stash_MarchRidgeMap10_Text1 = "Blahaslaviennie dla dobraj dušy",
+    Stash_MarchRidgeMap10_Text1 = "Blaslaviennie dla dobraj dušy",
     Stash_MarchRidgeMap10_Text2 = "Niachaj jano bieraže vas ad piekla jašče na niekatoruju časinku",
 
     Stash_RiversideStashMap1_Text1 = "ciapier my tut",
@@ -244,16 +244,16 @@ Stash_MulMap18_Text12 = "spadziajusia, što jaho harmaty ŭsio jašče na miescy
     Stash_RiversideStashMap5_Text1 = "CHTO BY HETA NI ČYTAŬ, NIE IDZICIE SIUDY",
     Stash_RiversideStashMap5_Text2 = "HANDONY ZABILI FRANKA I ŬKUSILI MIANIE",
 
-    Stash_RiversideStashMap6_Text1 = "Eddie pavinien byŭ pryhavać tut paru harmat",
+    Stash_RiversideStashMap6_Text1 = "Eddie pavinien byŭ prychavać tut paru stvaloŭ",
     Stash_RiversideStashMap6_Text11 = "Hety vypierdak moh by adbić horad, kali b nie zachvareŭ",
     Stash_RiversideStashMap6_Text12 = "Spadziajusia, hety psich Vicky nie dabraŭsia da ich",
 
     Stash_RiversideStashMap7_Text1 = "Bačyŭ pa darozie - jany ŭsie abiarnulisia",
-    Stash_RiversideStashMap7_Text2 = "Zaraz nakiroŭvajusia ŭ Gigamart",
+    Stash_RiversideStashMap7_Text2 = "Ciapier idu ŭ Gigamart",
     Stash_RiversideStashMap7_Text21 = "Nie svarciesia z Sandraj, pakuĺ mianie nie budzie",
 
     Stash_RiversideStashMap8_Text1 = "pakinuŭ tabie krychu ježy tut",
-    Stash_RiversideStashMap8_Text11 = "Pakušaj pierad adychodam",
+    Stash_RiversideStashMap8_Text11 = "Paješ pierad adychodam",
     Stash_RiversideStashMap8_Text2 = "infiekavanyja badziajucca tut",
     Stash_RiversideStashMap8_Text3 = "tut ja bačyŭ hrupu liudziej (peŭna ŭžo pamiorlych)",
 
@@ -269,7 +269,7 @@ Stash_MulMap18_Text12 = "spadziajusia, što jaho harmaty ŭsio jašče na miescy
     Stash_RosewoodStashMap2_Text1 = "Prychavaŭ krychu zbroi",
     Stash_RosewoodStashMap2_Text2 = "potym siudy",
     Stash_RosewoodStashMap2_Text3 = "tutaka kaniec",
-    Stash_RosewoodStashMap3_Text1 = "Znajšoŭ niekatoraje abstaliavannie, kab umacavacca heta miesca, pakuĺ my budziem čakać.",
+    Stash_RosewoodStashMap3_Text1 = "Znajšoŭ niekatoraje abstaliavannie, kab umacavać heta miesca, pakuĺ my budziem čakać.",
     Stash_RosewoodStashMap3_Text11 = "Mamin stary dom. Pabačymsia tut, caluju",
     Stash_RosewoodStashMap3_Text2 = "tut moža być zbroja - na ŭsialiaki",
     Stash_RosewoodStashMap3_Text3 = "siudy nie chadzi",
@@ -280,11 +280,11 @@ Stash_MulMap18_Text12 = "spadziajusia, što jaho harmaty ŭsio jašče na miescy
 
     Stash_RosewoodStashMap5_Text1 = "tut ježa",
     Stash_RosewoodStashMap5_Text2 = "Nie ŭlamvajsia!",
-    Stash_RosewoodStashMap5_Text3 = "Pamiataj, što stalasia z Mr Duncan",
+    Stash_RosewoodStashMap5_Text3 = "Pamiataj, što stalasia z Mr Duncan'am",
 
 /*
 Stash_WorldMap1_Text1 = "dabirajsia siudy! Cara dapamoža",
-Stash_WorldMap1_Text2 = "bačyŭ tut zaražanaha (moža ŭžo syšoŭ)",
+Stash_WorldMap1_Text2 = "bačyŭ tut zaražanaha (moža ŭžo pajšoŭ)",
 Stash_WorldMap1_Text4 = "kali pajedzieš, ruš pavoĺna, nie pryciahvaj ich uvahu",
 
 Stash_WorldMap2_Text1 = "dobraje miesca dlia bazy, addalienaje",
@@ -309,12 +309,12 @@ Stash_WorldMap7_Text1 = "zapravicca tut",
 Stash_WorldMap7_Text2 = "dixie poŭny zaražanych",
 Stash_WorldMap7_Text21 = "adkuĺ jany ŭsie pryjšli",
 
-Stash_WorldMap8_Text1 = "rečy kena, mohuć spatrebicca",
+Stash_WorldMap8_Text1 = "rečy ken'a, mohuć spatrebicca",
 Stash_WorldMap8_Text2 = "ascierahajsia tych, chto idzie za taboj",
 Stash_WorldMap8_Text21 = "nie toĺki zombi",
 
 Stash_WorldMap9_Text1 = "hruzavaja stancyja",
-Stash_WorldMap9_Text2 = "paŭsiuĺ sktyni, napeŭna ŭ ich kuča taho-siaho",
+Stash_WorldMap9_Text2 = "paŭsiuĺ skryni, peŭna ŭ ich kuča taho-siaho",
 Stash_WorldMap8_Text3 = "ofisy, ničoha",
 Stash_WorldMap8_Text4 = "sklad?",
 
@@ -324,13 +324,13 @@ Stash_WorldMap10_Text3 = "„U SPIFA“",
 Stash_WorldMap10_Text4 = "MAŠYNY",
 
 Stash_WorldMap11_Text1 = "Talierka 3 na viežy 2 - hubliaje sihnal kalia 6 GHz - prabliemy z silkavanniem",
-Stash_WorldMap11_Text11 = "Pazniej adviazu ŭ štab dlia tesciravannia z Lexingtonam",
+Stash_WorldMap11_Text11 = "Pazniej adviazu ŭ štab dlia tesciravannia z Lexington'am",
 
 Stash_WorldMap12_Text1 = "VIALIKI kempinh - usio nieabchodnaje (akramia tablietak dlia Jane)",
 Stash_WorldMap12_Text11 = "spačatku tut treba prybracca, alie tut šmat ježy, ložkaŭ i vohniščaŭ"
-Stash_WorldMap12_Text2 = "ADZINAJA APASNASĆ: handliovik na poŭnačy, sotni zaražanych"
+Stash_WorldMap12_Text2 = "ADZINAJA NIEBIASPIEKA: handliovik na poŭnačy, sotni zaražanych"
 
-Stash_WorldMap13_Text1 = "Hal, my idziem siudy, tut budzie biaspiečna"
+Stash_WorldMap13_Text1 = "Hal, my idziom siudy, tut budzie biaspiečna"
 Stash_WorldMap13_Text11 = "Ja znaju, što heta ciažka, alie NIE PRYVODŹ SIUDY PAULU"
 Stash_WorldMap13_Text12 = "U pieršuju čarhu ty pavinien vyratavać siabie"
 
@@ -339,11 +339,11 @@ Stash_WorldMap14_Text2 = "tut jany zabrali dzieda"
 Stash_WorldMap14_Text3 = "Boža, abarani ich"
 
 Stash_WorldMap17_Text1 = "sliapaja zona patrulia"
-Stash_WorldMap17_Text2 = "V vykliučyć datčyki ruchu roŭna a 23.15"
+Stash_WorldMap17_Text2 = "V vykliučyć datčyki ruchu roŭna ŭ 23.15"
 Stash_WorldMap17_Text21 = "Nie adciahvajsia! Trymajsia V, zrabi zdymki, vybirajsia"
 
 Stash_WorldMap18_Text1 = "Ben"
-Stash_WorldMap18_Text2 = "šliach"
+Stash_WorldMap18_Text2 = "daroha"
 
 Stash_WorldMap19_Text1 = "Uparty vypierdak! Vaźmi chacia b harmaty, jakija ja pakinula ŭ domie Misis Cuddy"
 Stash_WorldMap19_Text11 = "Kali zahinieš, ja tabie hetaha nikoli nie daruju!!!"

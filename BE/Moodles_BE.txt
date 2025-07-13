@@ -206,7 +206,7 @@ Moodles_BE = {
 	Moodles_foodeaten_desc_lvl3 = "Страўнік задаволены. Здароўе і сіла палепшалі.",
 	Moodles_foodeaten_desc_lvl4 = "Немагчыма з'есці нават аднаго маленькага кавалачка.",
 	-- Hyperthermia
-	Moodles_hyperthermia_desc_lvl1 = "Падумайце пра тое каб распрануцца. Смага падвысілася.",
+	Moodles_hyperthermia_desc_lvl1 = "Падумайце пра тое, каб распрануцца. Смага падвысілася.",
 	Moodles_hyperthermia_desc_lvl2 = "Смага. Пот. Вы пераграваецеся.",
 	Moodles_hyperthermia_desc_lvl3 = "Моташна, немагчыма сканцэнтравацца, вы знемагаеце без вадкасці.",
 	Moodles_hyperthermia_desc_lvl4 = "Вы трызніце ад цеплавога ўдару і гарачыні вакол. Вы ў сур'ёзнай небяспецы.",

@@ -24,7 +24,7 @@ DynamicRadio_BE {
     AEBS_fog_2 = "Вельмі густы туман.",
     AEBS_weather_0_a = "УВАГА: Прагназуецца, што надвор'е зменіцца %s... ",
     AEBS_weather_0_b = "Надвор'е будзе трымацца цягам дня... ",
-    AEBS_weather_0_c = "Прагназуецца, цяперашні стан надвор'я скончыцца %s... ",
+    AEBS_weather_0_c = "Па прагнозах, цяперашні стан надвор'я скончыцца %s... ",
     AEBS_weather_predicted = "чакаецца ",
     AEBS_weather_and_a = " і ",
     AEBS_weather_light_moderate = "чакаецца дождж ад слабога да ўмеранага...",
@@ -36,7 +36,7 @@ DynamicRadio_BE {
     AEBS_weather_storm_C = "Навальніца",
     AEBS_weather_tropical_C = "Трапічны шторм",
     AEBS_weather_blizzard_C = "Мяцеліца",
-    AEBS_weather_warning = "Папярэджанне пра цяжкае надвор'е. %s. Разліковы час надыходжання %s дзён...",
+    AEBS_weather_warning = "Папярэджанне пра цяжкае надвор'е. %s. Разліковы час надыходу %s дзён...",
 
     AEBS_rand_pre_0 = "анамальны",
     AEBS_rand_pre_1 = "падазроны",
